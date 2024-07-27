@@ -1,9 +1,7 @@
 import React from 'react';
 import './index.css';
-import Hero from './component/Hero';
 import Footer from './component/Footer';
 import Features from './component/Features';
-import Navbar from './component/Navbar';
 import NXWaveCard from './component/NX.js';
 import NXWaveContent from './component/NXWaveContent.js';
 import Features2 from './component/Features2.js';
@@ -28,10 +26,3 @@ function App() {
 }
 
 export default App;
-
-
-
- {/* <Navbar/>
-   <Hero/>
-   <Features/>
-   <Footer/> */}
